@@ -2,7 +2,7 @@
   "name": "dockerfile-template",
   "version": "0.0.1",
   "description": "Format for preprocessing dockerfiles",
-  "main": "lib.coffee",
+  "main": "./dockerfile-template",
   "bin": "./dockerfile-template",
   "repository": {
     "type": "git",
