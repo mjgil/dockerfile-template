@@ -2,7 +2,7 @@
   "name": "dockerfile-template",
   "version": "0.0.1",
   "description": "Format for preprocessing dockerfiles",
-  "main": "./dockerfile-template",
+  "main": "./lib.js",
   "bin": "./dockerfile-template",
   "repository": {
     "type": "git",
